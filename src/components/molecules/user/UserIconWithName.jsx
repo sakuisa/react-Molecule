@@ -19,6 +19,6 @@ const SImg = styled.img`
 const SName = styled.p`
   font-size: 18px;
   font-weight: bold;
-  magein: 0;
+  margin: 0;
   color: #40514e;
 `;
